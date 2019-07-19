@@ -1,0 +1,3 @@
+**/target/**
+sbt-ethereum.log
+sbt-ethereum.log.*
