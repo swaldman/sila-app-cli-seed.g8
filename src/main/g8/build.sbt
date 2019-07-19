@@ -1,12 +1,12 @@
 import com.silamoney.tbd._
 
-name := "$sila-app-name$-cli"
+name := "$sila_app_name$-cli"
 
-silaAppName := "$sila-app-name$"
+silaAppName := "$sila_app_name$"
 
-silaAppOwnerHandle := "$sila-app-owner-handle$"
+silaAppOwnerHandle := "$sila_app_owner_handle$"
 
-silaAppOwnerAddress := "$sila-app-owner-hex-address$"
+silaAppOwnerAddress := "$sila_app_owner_hex_address$"
 
-silaApiTarget := $sila-api-target$
+silaApiTarget := $sila_api_target$
 

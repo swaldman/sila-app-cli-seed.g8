@@ -3,4 +3,4 @@ resolvers += Resolver.sonatypeRepo("snapshots")
 resolvers += Resolver.sonatypeRepo("releases")
 resolvers += ("mchange-repo" at "https://www.mchange.com/repository")
 
-addSbtPlugin("com.silamoney" % "sila-cli-plugin" % "$sila-cli-plugin-version$")
+addSbtPlugin("com.silamoney" % "sila-cli-plugin" % "$sila_cli_plugin_version$")
